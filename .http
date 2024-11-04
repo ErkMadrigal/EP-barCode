@@ -1,0 +1,11 @@
+# Crear un registro (POST): http://localhost:3000/api/datos
+# Obtener todos los registros (GET): http://localhost:3000/api/datos
+# Obtener un registro por ID (GET): http://localhost:3000/api/datos/:id
+# Actualizar un registro (PUT): http://localhost:3000/api/datos/:id
+# Eliminar un registro (DELETE): http://localhost:3000/api/datos/:id
+
+GET http://localhost:3000/api/datos
+
+###
+
+GET http://localhost:3000/api/datos/code/301006
